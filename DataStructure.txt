@@ -1,0 +1,25 @@
+Fraud Detection in Online Product Review Systems via Heterogeneous Graph Transformer
+
+Fraud Detection, Graph Neural Network, Data Mining
+
+Fraud_Detection_in_Online_Product_Review
+
+
+fraud_detection_in_online_product_review
+
+
+
+
+fraud_prediction
+
+
+Product_Review
+Prediction
+
+
+
+fraud_prediction,detection_ratio,detection_accuracy
+
+
+
+

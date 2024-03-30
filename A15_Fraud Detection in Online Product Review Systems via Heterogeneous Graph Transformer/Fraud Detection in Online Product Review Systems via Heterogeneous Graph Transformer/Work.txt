@@ -1,0 +1,25 @@
+Service Provider
+
+Login,
+Browse and Train & Test Data Sets, 
+View Trained and Tested Accuracy in Bar Chart, 
+View Trained and Tested Accuracy Results, 
+View Detection Product Review Type, 
+Find Detection Product Review Type Ratio,
+Download Detection Product Review Data Sets, 
+View Detection Product Review Type Ratio Results, 
+View All Remote Users. 
+
+Remote User
+
+
+REGISTER AND LOGIN,
+DETECT PRODUCT REVIEW TYPE, 
+VIEW YOUR PROFILE.
+
+
+Members
+
+Product_Review
+Prediction
+
